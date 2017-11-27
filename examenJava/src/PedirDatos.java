@@ -55,7 +55,7 @@ public class PedirDatos {
 		do {
 			cadena=leerCadena(frase);
 			if(cadena.length()!=1) {
-				System.out.println("debe introducir un único caracter");
+				System.out.println("debe introducir un unico caracter");
 			}
 		}while(cadena.length()!=1);
 		
