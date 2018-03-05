@@ -1,3 +1,6 @@
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
+
 miarray = ['silvia','federico','miguel','julia','evaristo']
 print miarray[2]
 
